@@ -1,0 +1,1 @@
+{"id":"{{ quote.personUrl }}","dependencies":[{"name":"/Users/chelsea/chelsealo.github.io/package.json","includedInParent":true,"mtime":1591053972145}],"generated":{"js":"module.exports = {};"},"sourceMaps":null,"error":null,"hash":"28eeacc8eb0b91308c928ba7edb73dfc","cacheData":{"env":{}}}

@@ -1,0 +1,236 @@
+pageTitle: Chelsea Lo
+bold:
+  - Electrical Engineering & Computer Science (EECS)
+  - Business Administration
+intro: >
+  Junior in the __UC Berkeley Management, Entrepreneurship, and Technology (M.E.T.)__ program pursuing a dual degree in 
+  <strong> Electrical Engineering & Computer Science (EECS)</strong> from the College of Engineering and 
+  <strong>Business Administration</strong> from the Haas School of Business.
+
+quotes:
+  -
+    text: >
+      robotic digitization.
+    person: Ripcord
+    position: Software Engineering Intern
+    personUrl: https://www.ripcord.com/
+
+  -
+    text: >
+      1 of 80 selected from over 3,000.
+    person: Kleiner Perkins
+    position: KP Engineering Fellow
+    personUrl: https://www.kleinerperkins.com/perspectives/vault-com-names-kleiner-perkins-fellows-2-internship-program-in-u-s-and-announces-100k-in-seed-funding-for-fellows/?fbclid=IwAR2ud0G4Xy1WhMI0x-88voYtl7LdVZli7UFqv35d668ElQHt2DrVAipcuTU
+
+  -
+    text: >
+      full stack web development. [React, Bootstrap, Django, Node.js, MySQL]
+    person: Udentity
+    position: Software Engineering Intern
+    personUrl: https://www.udty.tech/
+
+
+projects:
+  -
+    title: Helsana Microsite
+    employer: ginetta
+    type: corporate
+    url: https://www.youtube.com/watch?v=EyuFEHSxG2c
+    description:
+  -
+    title: Crowdhose
+    employer: ginetta
+    type: corporate
+    url: Crowdhose.ch
+    description:
+  -
+    title: Swiss
+    employer: Hinderling & Volkart
+    type: corporate
+    url: swiss.ch
+    description:
+  -
+    title: Migros Magazin
+    employer: ginetta
+    type: corporate
+    url: https://www.migrosmagazin.ch/
+    description:
+
+  -
+    title: Samsung Warables
+    employer:
+    type: corporate
+    url: https://codepen.io/meodai/full/MEqpVL
+
+  -
+    title: Pronydays
+    employer: Elastiq
+    type: cultural
+    url: https://www.pornydays.love/
+
+doodles:
+  -
+    name: Generative Poster I
+    url: https://codepen.io/meodai/full/PLMgRz
+  -
+    name: Generative Poster II
+    url: https://codepen.io/meodai/full/XQbGQW
+  -
+    name: Generative Poster III
+    url: https://codepen.io/meodai/full/xeeKRe
+  -
+    name: Generative Poster IV
+    url: https://codepen.io/meodai/full/MRdGYW
+  -
+    name: Generative Poster V
+    url: https://codepen.io/meodai/full/PgMQMq
+  -
+    name: Generative Elastiq Logo
+    url: https://codepen.io/meodai/full/KKPLbKq
+  -
+    name: Crazy Grid
+    url: https://codepen.io/meodai/full/MRroga
+  -
+    name: Smeary Text
+    url: https://codepen.io/meodai/full/moYebY
+  -
+    name: Perlin Noise Hair
+    url: https://codepen.io/meodai/full/XxzNzR
+  -
+    name: Perlin Noise Hair II
+    url: https://codepen.io/meodai/full/JmrvaW
+  -
+    name: Generative Logo based on color
+    url: https://codepen.io/meodai/full/RRzNAg
+  -
+    name: Generative 3d Clouds
+    url: https://codepen.io/meodai/full/VvMJNV
+  -
+    name: LSD Worm
+    url: https://codepen.io/meodai/full/aOdLro
+  -
+    name: Playfull Logo
+    url: https://codepen.io/meodai/pen/YvaLzJ
+  -
+    name: Playfull Logo II
+    url: https://codepen.io/meodai/full/PxbebR
+  -
+    name: Infinite Bro Clicker
+    url: https://codepen.io/meodai/full/QZmjWe
+  -
+    name: Minimal Radio Player
+    url: https://codepen.io/meodai/full/xbeePp
+  -
+    name: Misc Hover Animation
+    url: https://codepen.io/meodai/full/aQZogo
+  -
+    name: Animated Logo
+    url: https://codepen.io/meodai/full/JedRmo
+
+color:
+  -
+    name: Generative Color Harmonies
+    url: https://codepen.io/meodai/full/RerqjG
+  -
+    name: Color Palette Mixer
+    url: https://codepen.io/meodai/full/GLyGeG
+  -
+    name: List of 18k color names
+    url: https://meodai.github.io/color-names/
+  -
+    name: Representation Of 18k color names in different color spaces
+    url: https://codepen.io/meodai/full/zdgXJj
+  -
+    name: Color Gradient Generator
+    url: https://codepen.io/meodai/full/xyqoEO
+  -
+    name: Color Harmony Tool
+    url: https://codepen.io/meodai/full/KagxwW (v2 in the making https://www.youtube.com/watch?v=GCGUqAQcfFw)
+
+social:
+  -
+    name: LinkedIn
+    url: https://www.linkedin.com/in/chelseatlo/
+  -
+    name: chelsealo@berkeley.edu
+    url: mailto:chelsealo@berkeley.edu
+
+code:
+  -
+    name: Github
+    url: https://github.com/chelsealo/
+
+
+clients:
+  -
+    name: Swiss
+    url: https://www.swiss.com/
+  -
+    name: Helsana
+    url: https://www.helsana.ch/
+  -
+    name: Zürcher Kantonalbank
+    url: https://www.zkb.ch
+  -
+    name: Viu
+    url: http://viu.ch/
+  -
+    name: Unic
+    url: https://www.unic.com/
+  -
+    name: Zürich Versicherungen
+    url: https://www.zurich.ch/
+  -
+    name: Canton of Aargau
+    url: https://www.ag.ch/
+  -
+    name: Samsung
+    url: http://www.samsung.com/ch/
+  -
+    name: Kreienbühl und Vogler
+    url: http://www.kreienbuehlundvogler.ch/
+  -
+    name: Sir Mary
+    url: https://sirmary.com/
+  -
+    name: Credit Suisse
+    url: https://www.credit-suisse.com/
+  -
+    name: Kanton Aargau
+    url: https://www.ag.ch/
+  -
+    name: Stairlin
+    url: https://www.stairlin.com/
+
+employers:
+  -
+    name: Unic
+    url: https://www.unic.com/
+  -
+    name: Hinderling & Volkart
+    url: https://www.hinderlingvolkart.com/
+  -
+    name: Nelmio
+    url: http://nelm.io/
+  -
+    name: Ginetta
+    url: https://www.ginetta.com/
+
+
+address:
+  title: Elastiq GmbH
+  street: Zentralstrasse 43
+  city: 8003 Zürich
+  phone: +41 78 895 81 19
+  email: tschou@elastiq.ch
+  mwstID: CHE-496.923.818
+  person:
+    name: David Aerne
+    role: Owner / Webmaster
+    phone: +41788958119
+    email: david@elastiq.ch
+
+buzzwords: >
+  ux design, front end, frontend, web development, interaction design,
+  Zürich, front end developer, frontend developer, interaction developer,
+  React, vue.js, vanilla js, javascript, css, html
