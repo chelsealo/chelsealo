@@ -45,5 +45,8 @@
     "exclude": [
       "googleb38071574b573624.html"
     ]
+  },
+  "engines": {
+    "node": "12.16.x"
   }
 }
